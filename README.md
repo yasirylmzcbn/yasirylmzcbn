@@ -1,7 +1,7 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&lines=Hello+There!;This+is+Yasir+Yilmazcoban...;Nice+to+meet+you..." alt="Typing SVG" /></a>
   <h3 align="center">About Me</h3>
-  <p align="center">Hi! My name is Yasir Yilmazcoban. I'm currently a sophomore Computer Science student at Texas A&M University. I am currently looking for software engineering internships for Summer 2024! Feel free to connect with me on <a href="https://www.linkedin.com/in/yasir-yilmazcoban-434198213">Linkedin</a>!</p>
+  <p align="center">Hi! My name is Yasir Yilmazcoban. I'm a sophomore Computer Science student at Texas A&M University. I am currently looking for software engineering internships for Summer 2024! Feel free to connect with me on <a href="https://www.linkedin.com/in/yasir-yilmazcoban-434198213">Linkedin</a>!</p>
 </h1>
 
 ### 💻 Languages:
