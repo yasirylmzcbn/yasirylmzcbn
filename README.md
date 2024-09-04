@@ -11,6 +11,12 @@ Algorand, Express.js, Firebase, Flask, Git, Jupyter, Linux, Node.js, Oracle DB, 
 Native, REST APIs, Selenium, Solidity, Tkinter, Unit Testing
 
 ## Experiences:
+**META** - Menlo Park, CA | May 2024 - August 2024 <br>
+Software Engineering Intern
+* Enhanced WhatsApp Web's media editor by implementing image filters and shape tools using React Konva, aligning its functionality with WhatsApp's mobile editors and giving ~300 million MAU new ways to express themselves.
+* Implemented a line-smoothing algorithm for the paint tool in the media editor and created a detailed document explaining the approaches considered, trade-offs, implementation details, etc.
+* Led communications with engineers from the React team to prevent a breaking regression after a React upgrade.
+
 **SP/IT** - College Station, TX | September 2023 - Present <br>
 Founder & Project Manager
   * Leading a team of 15 aspiring software engineers in the development and deployment of a cutting-edge
@@ -26,14 +32,14 @@ facilitating weekly meetings and feature assignments
   * Reviewed pull requests from team members and provided constructive feedback to uphold code quality
 and uniformity
 
-**TEXAS A&M UNIVERSITY** - College Station, TX | August 2023 - Present <br>
+**TEXAS A&M UNIVERSITY** - College Station, TX | August 2023 - December 2023 <br>
 Computation Lab Peer Teacher
   * Collaborated with a professor to facilitate instruction for a Python course, enhancing over 120 students’
 learning experiences
   * Provided comprehensive support by addressing questions, conducting review sessions, evaluating assignments, and offering weekly office hours to foster a conducive learning environment
   * Created a web scraper to move grades across two learning platforms, averting hours of manual work
 
-**R1649** - Remote/Dallas, TX | June 2023 - Present <br>
+**R1649** - Remote/Dallas, TX | June 2023 - May 2024 <br>
 Computation Lab Peer Teacher
   * Deployed an Oracle database to securely manage client credentials, and engineered a Flask-based web
 application to facilitate seamless CRUD operations for the database
