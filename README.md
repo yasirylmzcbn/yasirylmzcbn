@@ -1,14 +1,13 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&lines=Hello+There!;This+is+Yasir+Yilmazcoban...;Nice+to+meet+you..." alt="Typing SVG" /></a>
   <h3 align="center">About Me</h3>
-  <p align="center">Hi! My name is Yasir Yilmazcoban. I'm a junior Computer Science student at Texas A&M University. I am currently looking for software engineering internships for Summer 2024! Feel free to check out my <a href="https://yasiryc.me">website</a> or connect with me on <a href="https://www.linkedin.com/in/yasir-yilmazcoban">Linkedin</a>!</p>
+  <p align="center">Hi! My name is Yasir Yilmazcoban. I'm a junior Computer Science student at Texas A&M University!
 </h1>
 
 ### 💻 Languages:
 C/C++, Java, JavaScript, Python, TypeScript, SQL
 ### 🔨 Tools:
-Algorand, Express.js, Firebase, Flask, Git, Jupyter, Linux, Node.js, Oracle DB, React.js, React
-Native, REST APIs, Selenium, Solidity, Tkinter, Unit Testing
+Agile Development, CSS, Database Administration, DynamoDB, Express.js, Firebase, Flask, Git, HTML, Jest, JIRA, Konva, Linux, Node.js, Oracle DB, Postman, PyTorch, React, React Native, REST APIs, SCRUM, Selenium, Tkinter, TypeScript, Unit Testing
 
 ## Experiences:
 **META** - Menlo Park, CA | May 2024 - August 2024 <br>
