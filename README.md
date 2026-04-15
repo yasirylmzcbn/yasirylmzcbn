@@ -1,7 +1,7 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&lines=Hello+There!;This+is+Yasir+Yilmazcoban...;Nice+to+meet+you..." alt="Typing SVG" /></a>
   <h3 align="center">About Me</h3>
-  <p align="center">Hi! My name is Yasir Yilmazcoban. I'm a junior Computer Science student at Texas A&M University!
+  <p align="center">Hi! My name is Yasir Yilmazcoban. I'm a senior Computer Science student at Texas A&M University!
 </h1>
 
 ### 💻 Languages:
@@ -10,6 +10,13 @@ C/C++, Java, JavaScript, Python, TypeScript, SQL
 Agile Development, CSS, Database Administration, DynamoDB, Express.js, Firebase, Flask, Git, HTML, Jest, JIRA, Konva, Linux, Node.js, Oracle DB, Postman, PyTorch, React, React Native, REST APIs, SCRUM, Selenium, Tkinter, TypeScript, Unit Testing
 
 ## Experiences:
+**META** - New York City, NY | May 2025 - August 2025 <br>
+Software Engineering Intern
+* Added latency logging for Instagram to identify bottlenecks in media delivery events.
+* Fixed, migrated, and added new features to a tool to test Facebook and Instagram video uploads.
+* Established the communication path for all Instagram internal tools being migrated. 
+* Created an implementation plan doc to guide future iterations when new upload paths are ready for implementation. 
+
 **META** - Menlo Park, CA | May 2024 - August 2024 <br>
 Software Engineering Intern
 * Enhanced WhatsApp Web's media editor by implementing image filters and shape tools using React Konva, aligning its functionality with WhatsApp's mobile editors and giving ~300 million MAU new ways to express themselves.
@@ -39,7 +46,7 @@ learning experiences
   * Created a web scraper to move grades across two learning platforms, averting hours of manual work
 
 **R1649** - Remote/Dallas, TX | June 2023 - May 2024 <br>
-Computation Lab Peer Teacher
+Software Engineering Intern
   * Deployed an Oracle database to securely manage client credentials, and engineered a Flask-based web
 application to facilitate seamless CRUD operations for the database
   * Created and integrated React components into the company’s website, ensuring a cohesive and consistent user experience across all pages
