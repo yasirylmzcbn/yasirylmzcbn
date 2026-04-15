@@ -1,7 +1,7 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&lines=Hello+There!;This+is+Yasir+Yilmazcoban...;Nice+to+meet+you..." alt="Typing SVG" /></a>
   <h3 align="center">About Me</h3>
-  <p align="center">Hi! My name is Yasir Yilmazcoban. I'm a senior Computer Science student at Texas A&M University!
+  <p align="center">Hi! My name is Yasir Yilmazcoban. I'm a senior Computer Science student with a minor in Game Design & Development at Texas A&M University!
 </h1>
 
 ### 💻 Languages:
@@ -58,8 +58,19 @@ API with Node.js and Express
   Here are a couple of my projects. Feel free the check them out from my public repositories!
 </p>
 
+**COOKVERSE** | January 2026 - Present
+  * Led development of cooking mechanics and scripting
+  * Created kitchen assets to make the game come alive
+  * Crafted a spell system to link the cooking in the game to combat
+
+**COOKVERSEVR** | January 2026 - Present
+  * Led development of cooking mechanics and scripting
+  * Implemented a realistic VR chopping mechanic
+  * Introduced haptic and audio feedback to actions to make the user experience more tactile and accurate
+  * Built the dining area, kitchen, and lobby environments of the restaurant
+
 **IMAGE GENERATING APPARATUS (IGA)** | March 2023
-  * Crafted a website and a Chrome extension that utilize OpenAI’s API to generate images for e-books
+  * Crafted a website and a Chrome extension that utilizes OpenAI’s API to generate images for e-books
   * Employed Flask to construct the website and employed JavaScript to develop the Chrome extension
 
 **MICROSOFT REWARDS BOT** | April 2021 - Present
